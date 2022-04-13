@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HelloWorldV6
 - 👀 I’m interested in Nothing
 - 🌱 I’m currently learning in School
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me on nothing
 - -  i know how to program in c# some of javascript and java
 
